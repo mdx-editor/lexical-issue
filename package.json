@@ -6,7 +6,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "canary",
+    "@lexical/react": "^0.14.3",
+    "lexical": "^0.14.3",
+    "next": "^14.2.1-canary.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
